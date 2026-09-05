@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn
+SQLAlchemy
+psycopg2-binary
+pydantic
+email-validator
+python-dotenv
+google-generativeai
+groq
