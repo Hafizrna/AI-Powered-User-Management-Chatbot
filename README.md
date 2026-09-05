@@ -3,6 +3,12 @@
 A simple and fast AI-powered admin chatbot for managing users through natural language commands.
 
 The application allows administrators to **add, update, delete, and manage user information** using simple chat commands.
+# 🎥 Demo
+
+**Project Demo Video:**
+[GOOGLE_DRIVE_LINK_HER](https://drive.google.com/file/d/1yFFJNJsychamP4_JExdqie_M33RwHcbH/view?usp=drive_link)
+
+---
 
 ## 🚀 Tech Stack
 
@@ -237,14 +243,8 @@ Once the database and API configuration are completed, the application can be ru
 
 ---
 
-# 🎥 Demo
-
-**Project Demo Video:**
-[GOOGLE_DRIVE_LINK_HER](https://drive.google.com/file/d/1yFFJNJsychamP4_JExdqie_M33RwHcbH/view?usp=drive_link)
-
----
 
 
 # 👨‍💻 Author
 
-**Abdul Rehman**
+**Abdul Rehman Nadeem**
